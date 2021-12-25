@@ -1,0 +1,41 @@
+.body{
+    height:580px;
+
+}
+.navbar{
+    background-color: white;
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.collapse{
+    margin-right:1rem;
+}
+.fas{
+    padding-bottom  : 1px;
+    margin-left: 1rem;
+    color:#ffca2c;
+}
+.navbar .navbar-nav .nav-item .nav-link {
+    color: #363631;
+    font-size: 1.2rem;
+    font-weight: 500;
+
+}
+
+
+a.navbar-brand{
+
+    font-size: 1.7rem;
+    color: rgb(141, 82, 15);
+    font-weight: bold;
+    margin-left: 1rem;
+    text-decoration: none;}
+
+  
+    .navbar .navbar-nav .nav-item a:hover,
+    .navbar .navbar-nav .nav-item a.active{
+        color:#ffca2c;
+
+    }
+

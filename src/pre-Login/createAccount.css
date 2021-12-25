@@ -1,0 +1,97 @@
+
+.register-upper-div{
+
+    margin: 5px 0px 30px 14px;
+  }
+  h2.reg-h2{
+    font-size: 1.7rem;
+    color: rgb(141, 82, 15);
+    font-weight: bold;
+    margin-left: 1rem;
+    text-decoration: none;
+    display: inline-block;
+
+}
+  
+  .register-form-signin {
+    width: 100%;
+    max-width: 408px;
+    padding: 15px;
+    margin: auto;
+  }
+  
+  .register-form-signin .checkbox {
+    font-weight: 400;
+  }
+  
+  .register-form-signin .form-floating:focus-within {
+    z-index: 2;
+  }
+  .register-form-signin input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-color: transparent;
+    border-radius: 14px;
+    margin-bottom: 10px;}
+  
+  
+  .register-form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-color: transparent;
+    border-radius: 14px;
+    margin-bottom: 10px;}
+  
+  .register-form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background-color: transparent;
+    border-radius: 14px;
+    margin-bottom: 10px;
+  
+  }
+  .register-btn{
+      background-color:    #ffca2c    ;
+      border-radius: 14px;
+      border:0px;
+  }
+  button.register-btn:hover{
+      background-color: rgb(141, 82, 15);
+  }
+  .fas{
+      padding-bottom  : 1px;
+      margin-left: 1rem;
+      color:#ffca2c;
+  }
+  i.fab.fa-facebook{
+    color:#129AF6;
+  
+  }
+  .fa-2x{
+    font-size: 40px;
+  }
+  i.register-fab.fa-google{
+    background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+    margin-left: 50px;
+    }
+  
+  i.fab.fa-twitter{
+    color:#1A8CD8;
+  }
+  i.fab.fa-youtube{
+    color:#FF0000;
+  }
+  
+  .register-icon-div{
+    margin-top: 30px;
+  }
+  #reg{
+    margin-left: 42px;
+  }

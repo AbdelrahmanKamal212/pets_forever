@@ -1,0 +1,9 @@
+body{
+    background-color:#EFEFEF ;
+    background-image:url("../images/dog.jpeg");
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: 20px 15px;
+    height: 610px;
+    
+}
